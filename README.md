@@ -1,3 +1,25 @@
+# SMEC EMIDS Font
+
+### 项目简介
+本字体是基于 **[Gilbert](https://github.com/Fontself/TypeWithPride)** 的修改衍生版本。原始字体由 **Type With Pride** 创作并发布。
+
+### 版权与许可
+本衍生字体遵循 **知识共享署名-相同方式共享 4.0 国际公共许可证 (CC BY-SA 4.0)**。
+
+- **署名 (BY)**：您必须在本字体及衍生作品中给出适当的署名，注明原始作者。本项目已对原始作品进行修改。
+- **相同方式共享 (SA)**：若您基于本字体进行再修改或再分发，您必须采用**相同的 CC BY-SA 4.0 协议**。
+- **完整协议文本**：[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+- **协议摘要**：[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### 主要修改内容
+- 数字，字母的大部分字形
+- 调整数字的字体间距，贴合EMIDS实际应用场景
+
+### 免责声明
+本字体按“原样”提供，不提供任何明示或默示的担保（包括适销性、特定用途适用性等）。本衍生版本不代表原始作者的立场，原始作者不对本修改版本承担任何责任。
+
+-------------------------------------------------------------------------------------------
+
 # Type With Pride: The Gilbert Font Project
 
 On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly passed away. Mr. Baker was both an LGBTQ activist and artist, and was known for helping friends create banners for protests and marches. To honor the memory of Gilbert Baker, NewFest and NYC Pride partnered with Ogilvy & Mather and Fontself to create free fonts inspired by the design language of the iconic Rainbow Flag, the typeface was named *Gilbert* after Mr. Baker.
