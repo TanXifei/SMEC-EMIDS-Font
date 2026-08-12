@@ -27,10 +27,6 @@ On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly pa
 - Learn more about Type With Pride at [typewithpride.com](https://www.typewithpride.com)
 - Learn more about the ongoing creative and technical process [on the Fontself blog](https://stories.fontself.com/type-with-pride-a-color-font-chronicle-bb61fda31566)
 
-## Specimen
-
-[![Gilbert Specimen](specimen.jpg)](https://www.typewithpride.com)
-
 ## Details
 
 ### [Download the fonts](https://github.com/Fontself/TypeWithPride/releases) · [How to install](/documentation) · [Get the news](https://www.typewithpride.com/#get-the-news)
